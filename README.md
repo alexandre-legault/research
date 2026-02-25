@@ -2,13 +2,16 @@
 
 ## About
 
-I study the social and political dimensions of climate adaptation in rural communities. I specifically seek to understand how Nova Scotia's municipalities seek, identify, and use information in policy development and implementation. I previously studied how people relate to the Bay of Fundy’s dykeland system in the context of managed retreat. As Rochelle Owen Consulting's Research Associate, I am actively involved in a range of practitioner-led climate adaptation projects.
+I study the social and political dimensions of climate adaptation in rural communities. I specifically seek to understand how Nova Scotia's municipalities seek, identify, and use information in policy development and implementation. I previously studied how people relate to the Bay of Fundy’s dykeland system in the context of managed retreat. I am a member of the [_Environmental Information: Use and Influence_]([url](https://eiui.ca)) (EIUI) research program, the [_Sherren Lab_]([url](https://katesherren.org/my-lab/)), [_NSERC ResNet_]([url](https://www.nsercresnet.ca)), and the [_Quantitative Science Studies (QSS) Lab_]([url](https://qsslab.ca)). I am also _Rochelle Owen Consulting_'s Research Associate, and am thus actively involved in a range of practitioner-led climate adaptation projects.
 
 I was born and raised in Ottawa in a French-Canadian family, but have lived in Halifax’s North End with my wife and cat for almost four years. In my free time, I enjoy spending time with friends, swimming, drinking coffee, playing video games, and reading. 
 
-Visit my [CV](https://github.com/alexandre-legault/website/blob/main/CV_Alexandre-Legault_2026-02-25.pdf) to learn more about me or my [ORCID record](https://orcid.org/0009-0009-3909-6226) to retrieve my works.
+Consult my [CV](https://github.com/alexandre-legault/website/blob/main/CV_Alexandre-Legault_2026-02-25.pdf) to learn more about me or visit my [ORCID record](https://orcid.org/0009-0009-3909-6226) to retrieve my works.
 
 ## Projects
 
-I'm currently working on several projects:
-* **Master of Information (MI) thesis**:
+I'm currently involved in several projects:
+
+* **Using Information in Municipal Flood Risk Policy Development and Implementation**: With EIUI, I aim to understand how staff employed by Lunenburg County’s (Nova Scotia) coastal municipalities seek, identify, and use information in the development, implementation, and evaluation of coastal adaptation policies, especially those related to flooding.
+* **Achieving equitable decisions in the Bay of Fundy’s lived landscapes**: With the Sherren Lab, I seek to understand how Acadian diasporans value and relate to the Bay of Fundy's dykeland system in the context of a changing climate.
+* **The use and influence of information in local policy-making: A systematic map protocol**: With EIUI, I am completing a systematic map on the use of information in climate policy-making at local levels of government.
