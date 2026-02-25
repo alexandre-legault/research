@@ -12,6 +12,6 @@ Consult my [CV](https://github.com/alexandre-legault/website/blob/main/CV_Alexan
 
 I'm currently involved in several projects:
 
-* **Using Information in Municipal Flood Risk Policy Development and Implementation**: With EIUI, I aim to understand how staff employed by Lunenburg County’s (Nova Scotia) coastal municipalities seek, identify, and use information in the development, implementation, and evaluation of coastal adaptation policies, especially those related to flooding.
-* **Achieving equitable decisions in the Bay of Fundy’s lived landscapes**: With the Sherren Lab, I seek to understand how Acadian diasporans value and relate to the Bay of Fundy's dykeland system in the context of a changing climate.
-* **The use and influence of information in local policy-making: A systematic map protocol**: With EIUI, I am completing a systematic map on the use of information in climate policy-making at local levels of government.
+* **_Using Information in Municipal Flood Risk Policy Development and Implementation_**: With EIUI, I aim to understand how staff employed by Lunenburg County’s (Nova Scotia) coastal municipalities seek, identify, and use information in the development, implementation, and evaluation of coastal adaptation policies, especially those related to flooding.
+* **_Achieving Equitable Decisions in the Bay of Fundy’s Lived Landscapes_**: With the Sherren Lab, I seek to understand how Acadian diasporans value and relate to the Bay of Fundy's dykeland system in the context of a changing climate.
+* **_The Use and Influence of Information in Local Policy-Making: A Systematic Map Protocol_**: With EIUI, I am completing a systematic map on the use of information in climate policy-making at local levels of government.
